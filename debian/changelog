@@ -1,3 +1,13 @@
+indicator-sensors (0.1-beta-1) natty; urgency=low
+
+  * Update to 0.1-beta release
+  * Adds support for showing temperature sensors in Fahrenheit scale
+    instead of Celsius
+  * Clean up of preferences user interface
+  * Translation updates (including Turkish language support)
+
+ -- Alex Murray <murray.alex@gmail.com>  Wed, 11 May 2011 22:56:51 +0930
+
 indicator-sensors (0.1-alpha2-1) natty; urgency=low
 
   * Update to 0.1-alpha2 release
