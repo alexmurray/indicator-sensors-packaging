@@ -1,3 +1,14 @@
+indicator-sensors (0.1-rc-1) natty; urgency=low
+
+  * Update to 0.1-rc release
+  * Port to Gtk 3 and latest libsensors for Oneiric
+  * Improve a number of UI issues
+  * Allow setting of sensor alarm values
+  * Add option to hide / show label for sensors
+  * Remeber the user's preferred primary sensor
+
+ -- Alex Murray <murray.alex@gmail.com>  Sun, 28 Aug 2011 10:10:07 +0930
+
 indicator-sensors (0.1-beta-1) natty; urgency=low
 
   * Update to 0.1-beta release
