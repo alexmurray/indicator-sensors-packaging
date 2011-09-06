@@ -1,3 +1,11 @@
+indicator-sensors (0.1-rc2-1) oneiric; urgency=low
+
+  * Update to 0.1-rc2 release
+  * Make sure the list of sensors expands to take up available
+    in prefs dialog
+
+ -- Alex Murray <murray.alex@gmail.com>  Tue, 06 Sep 2011 21:06:18 +0930
+
 indicator-sensors (0.1-rc-1) natty; urgency=low
 
   * Update to 0.1-rc release
