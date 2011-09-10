@@ -1,3 +1,9 @@
+indicator-sensors (0.1-rc2-1ubuntu1) oneiric; urgency=low
+
+  * No change - just re-upload to PPA with a different name
+
+ -- Alex Murray <murray.alex@gmail.com>  Sat, 10 Sep 2011 14:59:33 +0930
+
 indicator-sensors (0.1-rc2-1) oneiric; urgency=low
 
   * Update to 0.1-rc2 release
