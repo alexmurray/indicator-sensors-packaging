@@ -1,3 +1,14 @@
+indicator-sensors (0.1-1) oneiric; urgency=low
+
+  * Update to 0.1 release
+    - Add icon support (LP bug #782980)
+    - Add aticonfig plugin (LP bug #835420)
+    - Fix error on empty sensor list (LP bug #881273)
+    - Correctly set voltage units for voltage sensors
+    - Rewrite nvidia plugin to properly label sensors
+
+ -- Alex Murray <murray.alex@gmail.com>  Fri, 11 Nov 2011 23:47:00 +1030
+
 indicator-sensors (0.1-rc2-1ubuntu1) oneiric; urgency=low
 
   * No change - just re-upload to PPA with a different name
