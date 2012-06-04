@@ -1,3 +1,14 @@
+indicator-sensors (0.2-1) precise; urgency=low
+
+  * Update to 0.2 release
+    - Add dbus interface to support display via a gnome-shell extension
+    - Increase default size of preferences window (LP bug #949317)
+    - Show warning icon in alarm notifications
+    - Allow user to chose not to display icons (or label or value even)
+    - Fix LP bug #890130 - ATI card name have trailing white-space
+
+ -- Alex Murray <murray.alex@gmail.com>  Mon, 04 Jun 2012 20:51:00 +1030
+
 indicator-sensors (0.1-1) oneiric; urgency=low
 
   * Update to 0.1 release
