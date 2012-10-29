@@ -1,3 +1,15 @@
+indicator-sensors (0.3-1) quantal; urgency=low
+
+  * Update to 0.3 release
+    - Support for building the nvidia plugin on Fedora
+    - Proper translations support
+    - Use persistent notifications to enable better interaction (LP bug #1052329)
+    - Fix bug where we mangled Fahrenheit values (LP bug #1052939)
+    - Fix bug where alarms would show on startup before sensors had been initialised (LP bug #1009881 and LP bug #1017275)
+    - Fix bug that caused the first sensor to always be shown as the active sensor (LP bug #1009909)
+
+ -- Alex Murray <murray.alex@gmail.com>  Tue, 30 Oct 2012 01:10:00 +1030
+
 indicator-sensors (0.2-1) precise; urgency=low
 
   * Update to 0.2 release
