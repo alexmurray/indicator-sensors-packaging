@@ -1,3 +1,22 @@
+indicator-sensors (0.5-1) saucy; urgency=low
+
+  * Update to 0.5 release
+     - Add customizable hysteresis to alarms to avoid showing then
+       hiding quickly
+     - Potential bug fixes found with clang-analyzer
+     - Export full icon path over DBus - for icons in GNOME Shell extension
+     - Add notification filtering support for GNOME Shell 3.8
+     - Add an AppData XML description for GNOME Software
+     - Updated and added new translations from Launchpad - he and zh_CN
+     - Addition of udisks2 plugin to provide disk temperatures on latest Fedora / Ubuntu
+     - Workaround bug in aticonfig package to avoid lock up - LP bug #1016896
+     - Fixup some untranslated strings to be shown translated - LP bug #1087150
+     - Fix crash when unselecting all sensors - LP bug #1086102
+     - Fix oversized sensor properties window - LP bug #1094723
+     - Cleanup display of temperature values - LP bug #1077754
+
+ -- Alex Murray <murray.alex@gmail.com>  Sat, 02 Nov 2013 23:20:00 +1030
+
 indicator-sensors (0.3-1) quantal; urgency=low
 
   * Update to 0.3 release
