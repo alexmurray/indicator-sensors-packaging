@@ -1,3 +1,12 @@
+indicator-sensors (0.6-1) saucy; urgency=low
+
+  * Update to 0.6 release
+     - Workaround libappindicator bug causing missing sensors - LP bug #1207138
+     - Fix bug where unselecting any sensor caused primary sensor to change
+     - Fix build warnings with newer versions of automake
+
+ -- Alex Murray <murray.alex@gmail.com>  Sun, 03 Nov 2013 21:25:00 +1030
+
 indicator-sensors (0.5-1) saucy; urgency=low
 
   * Update to 0.5 release
