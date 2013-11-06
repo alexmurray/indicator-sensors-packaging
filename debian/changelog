@@ -1,3 +1,10 @@
+indicator-sensors (0.7-1) saucy; urgency=low
+
+  * Update to 0.7 release
+     - Fix install path of .desktop file - LP Bug #1248430
+
+ -- Alex Murray <murray.alex@gmail.com>  Wed, 06 Nov 2013 20:21:00 +1030
+
 indicator-sensors (0.6-1) saucy; urgency=low
 
   * Update to 0.6 release
