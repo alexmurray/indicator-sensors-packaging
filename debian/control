@@ -1,8 +1,8 @@
 Source: indicator-sensors
 Section: gnome
 Priority: extra
-Maintainer: Alex Murray <murray.alex@gmail.com>
-Build-Depends: debhelper (>= 7), cdbs, autopoint, autotools-dev, intltool, gnome-common, gnome-doc-utils, libglib2.0-dev (>= 2.28.0), libgtk-3-dev (>= 3.0.0), libpeas-dev (>= 0.7.2), libnotify-dev (>= 0.7.2), libappindicator3-dev, libsensors4-dev, nvidia-settings, libatasmart-dev (>= 0.16)
+Maintainer: Alex Murray <alexmurray@fastmail.fm>
+Build-Depends: debhelper (>= 7), cdbs, autopoint, autotools-dev, intltool, gnome-common, gnome-doc-utils, libglib2.0-dev (>= 2.28.0), libgtk-3-dev (>= 3.0.0), libpeas-dev (>= 0.7.2), libnotify-dev (>= 0.7.2), libappindicator3-dev, libsensors4-dev, nvidia-settings, libudisks2-dev (>= 2.1.0)
 Standards-Version: 3.9.1
 Homepage: http://launchpad.net/indicator-sensors
 Vcs-Git: git://github.com/alexmurray/indicator-sensors.git

@@ -1,3 +1,14 @@
+indicator-sensors (0.8-1) trusty; urgency=medium
+
+  * Update to 0.8 release
+     - Update icons to new Ubuntu Mono Dark themed version
+     - Fix old udisks plugin to not request wakeup of idle disks
+     - Drop support for Ubuntu 12.04 to move to udisks2 plugin
+     - Fix broken icon display when no icon selected - LP Bug #1248907
+     - Fix po/Makefile.in.in being overwritten and use po/LINGUAS
+
+ -- Alex Murray <alexmurray@fastmail.fm>  Sat, 11 Oct 2014 20:35:48 +1030
+
 indicator-sensors (0.7-1) saucy; urgency=low
 
   * Update to 0.7 release
