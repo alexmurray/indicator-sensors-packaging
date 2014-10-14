@@ -1,3 +1,9 @@
+indicator-sensors (0.8-2) trusty; urgency=medium
+
+  * No change version bump to reupload to PPA
+
+ -- Alex Murray <alexmurray@fastmail.fm>  Tue, 14 Oct 2014 12:29:01 +1030
+
 indicator-sensors (0.8-1) trusty; urgency=medium
 
   * Update to 0.8 release
